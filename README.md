@@ -1,5 +1,5 @@
 # Customer Segmentation using K-Means Clustering
-##Project Overview
+## Project Overview
 This Machin learning project uses the K-Means Clustering algorithm to segment customers based on their annual income and spending score.
 
 ## Objective
